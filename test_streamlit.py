@@ -7,7 +7,7 @@ st.title("ChatGPT-like clone")
 
 #openai.api_key = os.environ.get("API_KEY")
 #password = os.environ.get("PASSWORD")
-openai.api_key = "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"
+openai.api_key = "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"
 
 #openai.api_key = st.secrets["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"]
 
